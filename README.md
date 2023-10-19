@@ -1,4 +1,4 @@
-## History Repeats Itself: Human Motion Prediction via Motion Attention
+## Class-guided human motion prediction via multi-spatial-temporal supervision
 This is the code for the paper
 
 Jinkai Li, Honghu Pan, Lian Wu, Chao Huang, Xiaoling Luo, Yong Xu,
